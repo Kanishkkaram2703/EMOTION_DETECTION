@@ -20,7 +20,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/emotion-detector.git
+git clone https://github.com/Kanishkkaram2703/EMOTION_DETECTION/tree/main
 cd emotion-detector
 Install dependencies:
 
